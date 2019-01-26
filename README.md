@@ -1,5 +1,5 @@
-#Intro to PyTorch
-####CS11-747 Neural Networks for NLP
+# Intro to PyTorch
+#### CS11-747 Neural Networks for NLP
 ___
 ### What is PyTorch ?
 It’s a Python-based scientific computing package targeted at two sets of audiences:
