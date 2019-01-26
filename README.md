@@ -1,6 +1,21 @@
 # Intro to PyTorch
 #### CS11-747 Neural Networks for NLP
 ___
+
+This tutorial wil be most beneficial if you can get the examples in this repo to run locally on your system.
+
+Required dependencies:
+* python 3.6 +
+* pytorch 0.4.1 +
+* torchvision
+* tqdm
+
+To check your pytorch version, use the below command
+```
+import torch
+print(torch.__version__)
+```
+
 ### What is PyTorch ?
 It’s a Python-based scientific computing package targeted at two sets of audiences:
 * A replacement for NumPy to use the power of GPUs
